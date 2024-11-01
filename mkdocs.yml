@@ -1,0 +1,8 @@
+site_name: nov1nodejsapp001
+site_description: 
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
